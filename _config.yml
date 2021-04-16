@@ -1,4 +1,5 @@
 theme: minima
 minima:
-  twitter_username: __surume__
-  github_username:  surume
+  social_links:
+    twitter_username: __surume__
+    github_username:  surume
