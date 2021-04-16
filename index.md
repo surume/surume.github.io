@@ -1,9 +1,12 @@
-# Name
+# Curriculum Vitae
+Web Developper
+
+## Name
 宮本 祥太 (Shota Miyamoto)
 
-# Skills
+## Skills
 
-## Language & Framework
+### Language & Framework
 - Java
   - Apache Struts 2
   - PlayFramework
@@ -43,7 +46,7 @@
 - CSS
 - HTML
 
-## Database
+### Database
 - PostgreSQL
 - MySQL
 - SQLServer
@@ -54,7 +57,7 @@
 - Memcache
 - Kyoto Tycoon
 
-## Middlewere 
+### Middlewere 
 - Git
 - Docker
 - Kubernates
@@ -71,12 +74,12 @@
 - NewRelic
 - Bugsnag
 
-## CloudService
+### CloudService
 - AWS
 - GCP
 - HEROKU
 
-# Career
+## Career
 
 ## 2016/08 - current : フリーランス(Freelance)
 - 2020/08 - current : 不動産検索サイト開発案件
