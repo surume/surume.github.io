@@ -1,4 +1,4 @@
-theme: minima
+
 title: surume info
 author:
   name: surume
@@ -7,3 +7,6 @@ minima:
   social_links:
     twitter_username: __surume__
     github_username:  surume
+    instagram: _surume_
+
+theme: minima
